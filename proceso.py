@@ -1,6 +1,6 @@
 # Programa para saber el numero opuesto de un dado
 
-# inpur
+# input
 
 N_Dado = int (input(" Ingrese en valor: "))
 
